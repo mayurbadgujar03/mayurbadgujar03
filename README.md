@@ -35,4 +35,4 @@ I'm a JavaScript-focused web developer who started my coding journey just a year
 ### 🔥 Featured Projects
 
 - [🧾 Expenso](https://github.com/mayurbadgujar03/Expenso)  
-  Multi-schema expense tracker app with user authentication, MongoDB, and Express.js. Great for practicing backend modularization.
+  Multi-schema expense tracker app with User authentication, Prisma, NeonDB, and Express.js. Great for practicing backend modularization.
